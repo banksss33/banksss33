@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!! I'm banksss33</h1>
-<h3 align="center">I'm CS Student who is interested in Software Engineering, Web app and Video game development.</h3>
+<h3 align="center">I'm CS Student who is interested in Software Engineering and Web app</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
